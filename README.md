@@ -8,4 +8,4 @@ cleaned audio files are saved to 'train'.
 main.py is to build model and predict data 'test'.
 
 
-Full project is demonstrate on Colab, you can see detail in 'audio.ipynb'
+Full project is demonstrate on Colab, you can see detail in 'test.ipynb'
