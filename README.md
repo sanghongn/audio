@@ -16,11 +16,11 @@ an audio's probability can vary  in all trained classes. the highest probability
 <img width="828" alt="Screenshot 2023-01-14 at 11 03 01" src="https://user-images.githubusercontent.com/107643269/212449839-bc8a0a69-7931-484d-bd9f-9f436fff3b98.png">
 
 
-filter.py is to clean the audio files (if there are silent intervals of time). 
+'filter.py' is to clean the audio files (if there are silent intervals of time). 
 
 Cleaned audio files are saved to 'train'. 
 
-main.py is to build model base on 'train' and predict data on 'test'.
+'main.py' (or 'main.ipynb') is to build model base on 'train' and predict data on 'test'.
 
 
 
