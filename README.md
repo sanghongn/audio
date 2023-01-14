@@ -1,5 +1,5 @@
-# Instrument
-PROJECT DESCRIPTION (INSTRUMENTS CLASSIFICATION): the data set was given. 
+
+# PROJECT DESCRIPTION: INSTRUMENTS CLASSIFICATION
 
 
 Full project is demonstrate on Colab, you can see detail in 'main.ipynb'
