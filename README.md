@@ -1,4 +1,4 @@
-# audio
+# Instrument
 PROJECT DESCRIPTION (INSTRUMENTS CLASSIFICATION): the data set was given. 
 
 
