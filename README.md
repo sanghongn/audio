@@ -18,9 +18,9 @@ an audio's probability can vary  in all trained classes. the highest probability
 
 filter.py is to clean the audio files (if there are silent intervals of time). 
 
-cleaned audio files are saved to 'train'. 
+Cleaned audio files are saved to 'train'. 
 
-main.py is to build model and predict data 'test'.
+main.py is to build model base on 'train' and predict data on 'test'.
 
 
 
